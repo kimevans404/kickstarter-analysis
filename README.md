@@ -28,7 +28,7 @@ This graph was created to make a visual for the following worksheet. The data wa
 
 
 ### Challenges and Difficulties Encountered 
-One of the challenges I came across in this analysis was using the COUNTIFS function in Excel.
+One of the challenges I came across in this analysis was using the COUNTIFS function in Excel. I had trouble getting the first COUNTIFS function to work, but after reading more into it on the Microsoft webpage I was able to figure out what I was doing wrong. One of the other things I found difficult was looking at the data and determining what was the best take-away from the analysis results. With this I reviewed what Louise's original problem was and how the data can help resolve it.
 
 ## Results
 
